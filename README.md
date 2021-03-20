@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align= "center"><img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="300"></p>
+
+
+<h1 align="center" style= "font-size=75%">Hey there! 👋</h1>
 
 <!--
 **Ayush-SR/Ayush-SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### An Enthusiast Technovazy Open Source Developer, who loves to build and Tinker stuffs. Currently an Electronics undergraduate, sharpening my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👯 Love to speak about the Technologies and building communities.
+- ⚡ Fun fact about me: Productive Nocturnal
+
+
+#### 👨‍💻My Weekly Stats 
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
