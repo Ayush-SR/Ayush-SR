@@ -5,13 +5,17 @@
 
 <!--
 **Ayush-SR/Ayush-SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<h3 id="an-enthusiast-technovazy-open-source-developer-who-loves-to-learn-new-things-currently-pursuing-an-electronics-engineering-">An Enthusiast Technovazy Open Source Developer, who loves to learn new things. Currently, pursuing an Electronics Engineering.</h3>
+<br/>
 
-### An Enthusiast Technovazy Open Source Developer, who loves to build and Tinker stuffs. Currently an Electronics undergraduate, sharpening my skills.
+<blockquote>
+<h4 id="-love-to-speak-about-the-technologies-and-building-communities-">* Love to speak about the Technologies and building communities.</h4>
+<h4 id="-fun-fact-about-me-productive-nocturnal">* Fun fact about me: Productive Nocturnal</h4>
+</blockquote>
+<br/>
 
-#### 👯 Love to speak about the Technologies and building communities.
-#### Fun fact about me: Productive Nocturnal
-
-### 👨‍💻My Weekly Stats 
+<h3 id="my-weekly-stats-">My Weekly Stats -</h3>
 
 <!--START_SECTION:waka-->
 ```text
