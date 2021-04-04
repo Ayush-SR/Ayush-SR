@@ -11,7 +11,7 @@
 
 <blockquote>
 <h4 id="-love-to-speak-about-the-technologies-and-building-communities-">* Love to speak about the Technologies and building communities.</h4>
-<h4 id="-fun-fact-about-me-productive-nocturnal">* Fun fact about me: Productive Nocturnal</h4>
+<h4 id="-loves-to code-on-python">* Favourite language : Loves to Code in PYTHON</h4>
 </blockquote>
 <br/>
 
@@ -20,6 +20,6 @@
 -->
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Profile Under Development
 ```
 <!--END_SECTION:waka-->
