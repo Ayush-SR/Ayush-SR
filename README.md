@@ -15,8 +15,9 @@
 </blockquote>
 <br/>
 
+<!--
 <h3 id="my-weekly-stats-">My Weekly Stats -</h3>
-
+-->
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
